@@ -1,8 +1,11 @@
 ---
+weight: 1
 title: "第一篇博文"
 date: 2022-11-10T17:43:52+08:00
-draft: true
+draft: false
 description: "这篇文章展示了基本的 Markdown 语法和格式."
+author: "sixand"
+
 ---
 
 ### 这里记录什么？
